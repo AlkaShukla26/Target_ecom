@@ -46,7 +46,7 @@ Focus: dataset profiling, trends, geography, pricing & freight, delivery perform
 
 ---
 
-## ✅ Recommendations (Data-Driven)
+## ✅ Recommendations :
 1. **Fix slow lanes:** Prioritize logistics in **RR** (highest freight & delivery time); benchmark practices from **AC/RO/AP/AM**.
 2. **Freight optimization:** Audit carrier mix and routing in high-cost states (e.g., RR); set **SLA-based contracts**.
 3. **Monetize high-value states:** Target **PB/AP/AC** with premium SKUs & exclusive bundles.
