@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AlkaShukla26/Target_ecom/blob/main/WhatsApp%20Image%202025-09-07%20at%2000.00.36.jpeg?raw=true" 
+       alt="Target Project" width="567" height="264"/>
+</p>
 
 
 # 🛒 Target E-commerce Case Study (SQL-only)
